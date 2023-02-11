@@ -2,7 +2,6 @@ from googletrans import Translator
 from gtts import gTTS
 import playsound
 
-
 # Initialize the Translator object
 translator = Translator(service_urls=['translate.google.com'])
 
